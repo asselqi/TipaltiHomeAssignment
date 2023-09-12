@@ -1,0 +1,15 @@
+C:\Users\lenovo\Documents\Aseel\TipaltiHomeAssignment\TipaltiHomeAssignment\bin\Debug\net7.0\TipaltiHomeAssignment.exe
+C:\Users\lenovo\Documents\Aseel\TipaltiHomeAssignment\TipaltiHomeAssignment\bin\Debug\net7.0\TipaltiHomeAssignment.deps.json
+C:\Users\lenovo\Documents\Aseel\TipaltiHomeAssignment\TipaltiHomeAssignment\bin\Debug\net7.0\TipaltiHomeAssignment.runtimeconfig.json
+C:\Users\lenovo\Documents\Aseel\TipaltiHomeAssignment\TipaltiHomeAssignment\bin\Debug\net7.0\TipaltiHomeAssignment.dll
+C:\Users\lenovo\Documents\Aseel\TipaltiHomeAssignment\TipaltiHomeAssignment\bin\Debug\net7.0\TipaltiHomeAssignment.pdb
+C:\Users\lenovo\Documents\Aseel\TipaltiHomeAssignment\TipaltiHomeAssignment\obj\Debug\net7.0\TipaltiHomeAssignment.csproj.AssemblyReference.cache
+C:\Users\lenovo\Documents\Aseel\TipaltiHomeAssignment\TipaltiHomeAssignment\obj\Debug\net7.0\TipaltiHomeAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Documents\Aseel\TipaltiHomeAssignment\TipaltiHomeAssignment\obj\Debug\net7.0\TipaltiHomeAssignment.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\Aseel\TipaltiHomeAssignment\TipaltiHomeAssignment\obj\Debug\net7.0\TipaltiHomeAssignment.AssemblyInfo.cs
+C:\Users\lenovo\Documents\Aseel\TipaltiHomeAssignment\TipaltiHomeAssignment\obj\Debug\net7.0\TipaltiHomeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\Aseel\TipaltiHomeAssignment\TipaltiHomeAssignment\obj\Debug\net7.0\TipaltiHomeAssignment.dll
+C:\Users\lenovo\Documents\Aseel\TipaltiHomeAssignment\TipaltiHomeAssignment\obj\Debug\net7.0\refint\TipaltiHomeAssignment.dll
+C:\Users\lenovo\Documents\Aseel\TipaltiHomeAssignment\TipaltiHomeAssignment\obj\Debug\net7.0\TipaltiHomeAssignment.pdb
+C:\Users\lenovo\Documents\Aseel\TipaltiHomeAssignment\TipaltiHomeAssignment\obj\Debug\net7.0\TipaltiHomeAssignment.genruntimeconfig.cache
+C:\Users\lenovo\Documents\Aseel\TipaltiHomeAssignment\TipaltiHomeAssignment\obj\Debug\net7.0\ref\TipaltiHomeAssignment.dll
